@@ -9,4 +9,4 @@ Finally, it compares the nmap data with the Ninja data.
 - Any mac address that is found in NinjaOne is considered a known device
 - Any mac address not found in NinjaOne is considered an unknown device
 
-You can use the resulting $overseer object to send to an api, csv, or email a simple report of known and unknown devices.
+You can use the resulting $overseerMap object to send to an api, csv, or email a simple report of known and unknown devices.
